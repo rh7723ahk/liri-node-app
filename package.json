@@ -1,0 +1,16 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "LIRI app, much like an iPhone's SIRI, but is a command line node app.",
+  "main": "keys.js",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.83.0",
+    "require": "^2.4.20",
+   
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
